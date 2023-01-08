@@ -103,18 +103,31 @@
 }
 
 .target {
-    font-weight: 700;
-    font-size: 30px;
+    font-weight: 600;
+    font-size: 25px;
     text-align: center;
     color: #151414;
 }
 
 .what-i-want {
-    font-weight: 500;
-    font-size: 25px;
+    font-weight:300;
+    font-size: 20px;
     text-align: center;
     color:#444343;
 
+}
+/* about section style */
+.about{
+    background: #fff8f3;
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+
+}
+.section-description{
+    color: #757575;
+    font-size: 18px;
+    margin-bottom: 30px;
 }
 /* gradient */
 .gradient-img {
@@ -125,36 +138,36 @@
 
 .mindset {
 
-    font-weight: 700;
+    font-weight: 1200;
     font-size: 40px;
-    color: #FFFFFF;
+    color:#F3F3F3;
 }
 
 .action {
     margin-top: -245px;
-    margin-left: 60px;
+    margin-left: 130px;
 }
-/* future the last part */
-.Future {
+/* footer the last part */
+.footer {
     background:black;
     display: flex;
     justify-content: space-between;
-    margin-top: -170px;
+    margin-top:-170px;
 }
 
-.Future-side {
+.footer-side {
     margin: 130px 150px;
     display: flex;
 }
 
-.left-Future-title {
-    font-weight: 600;
+.left-footer-title {
+    font-weight: 700;
     font-size: 45px;
-    color: #F8F8F8;
+    color:beige;
 }
 .footer-para {
     font-size: 16px;
-    color: #FFFFFF;
+    color:cornsilk;
     padding-top: 20px;
 }
 .social-icons {
@@ -162,7 +175,7 @@
     padding-right: 10px;
 }
 
-.right-Future-title {
+.right-footer-title {
     font-weight: 600;
     font-size: 25px;
     color: #FFFFFF;
